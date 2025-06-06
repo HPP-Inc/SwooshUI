@@ -99,7 +99,7 @@ import 'swooshui';
 
 ## 📄 License
 
-MIT License © 2025 \[Your Name or Organization]
+GPL 3.0 License © 2025 \[🌐HPP Inc.]
 
 ## 🙌 Contributing
 
