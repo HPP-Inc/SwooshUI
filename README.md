@@ -1,4 +1,4 @@
-![swooshUI](https://github.com/user-attachments/assets/38b8f661-46c0-4e66-bfb0-664db67f7305)
+![SwooshUI](https://github.com/user-attachments/assets/82e2ceae-5aec-4db3-94bd-eacf41c8a591)
 
 # SwooshUI
 
